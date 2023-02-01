@@ -1,0 +1,2 @@
+# inv_gudangkasur
+inventory
